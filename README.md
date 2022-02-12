@@ -2,7 +2,9 @@
 
 ![Profile views](https://gpvc.arturio.dev/ThaneCoin)
 
-ThaneCoin aims to help the homeless and those currently struggling in the current boom & bust system through TPI.
+### Hi There,<br>***This is Thane Coin***<br>
+**ThaneCoin aims to help the homeless and those currently struggling in the current boom & bust system through TPI.**<br>
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ThaneCoin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ThaneCoin/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/ThaneCoinTPI)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ThaneCoin/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ThaneCoinTPI)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://thanecoin.io/)  
 
